@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 45rem;
+  background: white;
+  margin-inline: auto;
+}
+
+@font-face {
+  font-family: Inter;
+  src: url(./assets/fonts/inter.ttf);
+  font-weight: 1 999;
+}
+
+body {
+  font-family: Inter;
+  background-color: rgb(250 250 250);
+}
